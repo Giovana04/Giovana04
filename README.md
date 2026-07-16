@@ -47,13 +47,6 @@ Meu principal diferencial não é apenas codar, mas a vivência combinando desen
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giovana04&show_icons=true&theme=radical&cache_seconds=86400&v=1" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana04&layout=compact&theme=radical&cache_seconds=86400&v=1" alt="Top Languages" height="150" />
-</div>
-
----
-
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giovana-fernandes-nascimento-1795a8268)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanafn0401@gmail.com)
