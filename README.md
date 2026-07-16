@@ -1,16 +1,16 @@
-# Oi, eu sou a Giovana 👋
+# Oi, eu sou a Giovana 
 
 Estudante de Ciência da Computação na Unicentro. Gosto de desenvolver aplicações utilizando Flutter, criar integrações entre sistemas e automatizar processos com Python. 
 
 Meu principal diferencial não é apenas codar, mas a vivência combinando desenvolvimento, análise de dados e liderança técnica — habilidades que desenvolvi na prática como fundadora do PET Computação e mentora STEM no projeto Mulheres que Somam.
 
-- 🔭 **Atualmente trabalhando no:** [RemeVet](#), um SADC veterinário offline-first.
-- 🌱 **Estudando:** Arquitetura de Software e padrões de projetos.
-- 💬 **Pergunte-me sobre:** Flutter, Python, SQL ou como organizar minicursos de lógica.
+-  **Atualmente trabalhando no:** [RemeVet](#), um SADC veterinário offline-first.
+-  **Estudando:** Arquitetura de Software e padrões de projetos.
+-  **Pergunte-me sobre:** Flutter, Python, SQL ou como organizar minicursos de lógica.
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 <!-- As imagens abaixo geram as badges automaticamente -->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -25,9 +25,9 @@ Meu principal diferencial não é apenas codar, mas a vivência combinando desen
 
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
-#### 🐾 [RemeVet - SADC Veterinário](https://github.com/Giovana04/RemeVet)  
+####  [RemeVet - SADC Veterinário](https://github.com/Giovana04/RemeVet)  
 `Flutter` • `Dart` • `SQLite` • `GetX` • `Repository` • `Offline-first`
 
 > Sistema de apoio à decisão clínica focado no cálculo rigoroso de dosagens medicamentosas, operando principalmente offline para clínicas sem acesso à internet.
@@ -47,6 +47,6 @@ Meu principal diferencial não é apenas codar, mas a vivência combinando desen
 
 ---
 
-### 📫 Contato
+### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giovana-fernandes-nascimento-1795a8268)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanafn0401@gmail.com)
