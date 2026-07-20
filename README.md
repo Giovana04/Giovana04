@@ -39,11 +39,18 @@ Meu principal diferencial não é apenas codar, mas a vivência combinando desen
 
 <br>
 
-#### 🔗 [Integrações e Consumo de APIs](https://github.com/AnaBeatrizBueseSurekeHenrique/TrabalhosCienciaDados)<img width="400" height="711" alt="Remevet" src="https://github.com/user-attachments/assets/0e21cf44-1b3f-492f-b0e9-5e3afe7f108d" />
+#### [Integrações e Consumo de APIs](https://github.com/AnaBeatrizBueseSurekeHenrique/TrabalhosCienciaDados)
 
 `Python` • `Requests` • `REST APIs` • `JSON`
 
 > Scripts e rotinas locais focados no consumo de APIs REST externas, validação de retornos JSON e tratamento de inconsistências de dados.
+<br>
+
+#### [Análise de Dados](https://github.com/Giovana04/analise-preditiva-violencia-mg)
+
+`Python` • `pandas` • `SQLAlchemy` • `scikit-learn` • `numpy` • `matplotlib`
+
+> Pipeline de Ciência de Dados para análise de ocorrências de violência doméstica em Minas Gerais, envolvendo ETL, banco de dados relacional, SQL, visualização de dados e implementação da Regressão Ridge from scratch.
 
 ---
 
